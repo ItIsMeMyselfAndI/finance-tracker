@@ -1,6 +1,6 @@
 # FINANCE TRACKER
 
-A desktop-based application designed for students to monitor their daily spending habits, budget allocation, and overall financial health. With an intuitive user interface and insightful analytics, the tool simplifies financial management for users who may lack extensive budgeting experience.
+An offline desktop-based application designed for students to monitor their daily spending habits, budget allocation, and overall financial health. With an intuitive user interface and insightful analytics, the tool simplifies financial management for users who may lack extensive budgeting experience.
 
 > **Project Info:**  
 > This project was developed as a final requirement for the course _Object-Oriented Programming_ (1st Year, 2nd Semester).
