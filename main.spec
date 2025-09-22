@@ -24,7 +24,7 @@ exe = EXE(
     a.scripts,
     [],
     exclude_binaries=True,
-    name='Finance Tracker',
+    name='Finance-Tracker',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
